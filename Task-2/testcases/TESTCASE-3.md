@@ -1,11 +1,13 @@
+[Назад](../TESTCASES.md) 
+
 # Test case 3
 
 ### Есть счетчик энергии
 
 ### Предусловия
 
-1. Открыть сайт: https://www.avito.ru/avito-care/eco-impact
-2. Авторизация (инструкция для авторизации: ссылка)
+1. Открыть сайт [Авито](https://www.avito.ru/avito-care/eco-impact)  
+2. Авторизоваться  [Инструкция](../autotests/README.md)  
 
 ### Шаги исполнения
 
@@ -17,10 +19,11 @@
 
 
 ### Окружение
-* Windows 11, Яндекс Браузер 24.1.5.736 (64-bit)  
+* Windows 11, Chromium-1112 
+  
 
 ### Скриншот
-
+![screenshot-3](../output/tc-3-energy.png)  
 ### Результат
 * PASSED
 
